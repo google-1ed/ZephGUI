@@ -49,7 +49,7 @@ do
     ThemeManager.BuiltInThemes = {
         ["Default"] = {
             1,
-            { FontColor = "ffffff", MainColor = "191919", AccentColor = "7d55ff", BackgroundColor = "0f0f0f", OutlineColor = "282828" },
+            { FontColor = "ffffff", MainColor = "1a1a1a", AccentColor = "cc0000", BackgroundColor = "0a0a0a", OutlineColor = "2a2a2a" },
         },
         ["BBot"] = {
             2,
@@ -118,6 +118,10 @@ do
         ["Material"] = {
             18,
             { FontColor = "eeffff", MainColor = "212121", AccentColor = "82aaff", BackgroundColor = "151515", OutlineColor = "424242" },
+        },
+        ["Z"] = {
+            19,
+            { FontColor = "ffffff", MainColor = "1c1c1c", AccentColor = "cc1414", BackgroundColor = "0a0a0a", OutlineColor = "2d2d2d" },
         }
     }
 
